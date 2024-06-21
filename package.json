@@ -1,7 +1,8 @@
 {
   "name": "dnd-map-cycle",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://melland55.github.io/DnD-Map-Cycle",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -40,5 +41,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-  
 }
